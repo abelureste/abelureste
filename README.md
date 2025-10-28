@@ -1,7 +1,7 @@
 <!-- Banner header -->
 <div align="center">
 
-<img src="https://github.com/abelureste/abelureste/blob/main/images/welcome_abelureste.png" style="width: 75%;" alt="Welcome to my Profile" />
+<img src="https://github.com/abelureste/abelureste/blob/main/images/welcome_abelureste.gif" style="width: 75%;" alt="Welcome to my Profile" />
 
 </div>
 
