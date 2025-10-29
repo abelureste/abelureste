@@ -8,7 +8,7 @@
 <!-- Projects section -->
 <div align="center" style="width: 100%;">
 
-<img src="https://github.com/abelureste/abelureste/blob/main/images/currently-working-on.png" style="width: 50%;" alt="Projects" />
+<img src="https://github.com/abelureste/abelureste/blob/main/images/current-projects.png" style="width: 50%;" alt="Projects" />
 
 | Name | Description | Link |
 |---|---|---|
