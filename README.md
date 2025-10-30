@@ -35,3 +35,9 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abelureste&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
+
+<div align="center" style="width: 100%;">
+  
+<img src="https://img.shields.io/github/last-commit/abelureste/abelureste?label=last%20updated">
+
+</div>
