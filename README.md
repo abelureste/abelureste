@@ -14,7 +14,6 @@
 |---|---|---|
 | Travel Site | A small social media website to post your travels, created to learn Vue.JS | [Link](https://github.com/abelureste/travelsite) |
 | Pomodoro | A small application to bring a pomodoro timer to your desktop, created to learn Electron | [Link](https://github.com/abelureste/pomodoro) |
-| Cipherme | A tiny program used to encode messages, written in Python. | [Link](https://github.com/abelureste/cipherme) |
 
 
 </div>
