@@ -12,7 +12,7 @@
 
 | Name | Description | Link |
 |---|---|---|
-| Earthme | A small website to pin places you've travelled to on a 3D earth | [Link](https://github.com/abelureste/earthme) |
+| Earthme | A small website to pin places you've traveled to on a 3D earth, created to tinker with ThreeJS | [Link](https://github.com/abelureste/earthme) |
 | Pomodoro | A small application to bring a pomodoro timer to your desktop, created to learn Electron | [Link](https://github.com/abelureste/pomodoro) |
 
 
