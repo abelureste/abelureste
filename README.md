@@ -32,7 +32,7 @@
 
 <img src="https://github.com/abelureste/abelureste/blob/main/images/statistics.png" alt="Statistics"/>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abelureste&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=abelureste&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 </div>
 
 <div align="center" style="width: 100%;">
